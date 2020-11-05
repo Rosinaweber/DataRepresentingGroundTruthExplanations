@@ -1,0 +1,6 @@
+Loan data
+54 instances
+3 features
+2 classes
+
+no testing instances

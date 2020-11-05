@@ -1,0 +1,4 @@
+Time
+504000 instances
+4 features
+7 classes
