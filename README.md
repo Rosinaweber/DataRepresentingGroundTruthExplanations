@@ -1,4 +1,4 @@
-# DataRepresentingGroundTruthExplanations
+# Data Representing Ground-Truth Explanations
 
 Intructions:
 
@@ -28,4 +28,4 @@ GTE with 5000 num_samples
 NN1 coefficients from LIME-Distance
 
 
-# Note: For Distance and Time dataset, due to the sheer size of the dataset, we already have trained models and evaluation instances ready in NN Models folder and Dataset folder respectively. Please ensure the corresponding jupyter notebooks are linked to the said files.  
+  Note: For Distance and Time dataset, due to the sheer size of the dataset, we already have trained models and evaluation instances ready in NN Models folder and Dataset folder respectively. Please ensure the corresponding jupyter notebooks are linked to the said files.  
