@@ -25,6 +25,6 @@ The code for the entire project is split 3 essential parts:
 - GTE with 5000 num_samples
 - NN1 coefficients from LIME-Distance
 
-  **Run the Visualization.py notebook to replicate the charts 
+  **Run the Visualization.py notebook to replicate the charts** 
   
   **Note: For Distance and Time dataset, due to the sheer size of the dataset, we already have trained models and evaluation instances ready in NN Models folder and Dataset folder respectively. Please ensure the corresponding jupyter notebooks are linked to the said files.**  
