@@ -12,7 +12,6 @@ The code for the entire project is split 3 essential parts:
 - NN2 coefficients from LIME-Loan
   -To run the code ensure that file "Loan_Data.csv" has the same path as the Jupyter notebook "Loan_Data-Lime-explanations"
 
-
 2) Time Data - ![Link to Time dataset](https://drive.google.com/drive/folders/1_7hbPb8FQ488faesZVQDpWo9mxJrG5h4?usp=sharing)
 - Time 10000 Evaluation Instances Correct with labels.csv
 - GTE with 1000 num_samples
@@ -24,6 +23,5 @@ The code for the entire project is split 3 essential parts:
 - Distance 50000 Evaluation Instances Correct with labels.csv
 - GTE with 5000 num_samples
 - NN1 coefficients from LIME-Distance
-
 
   **Note: For Distance and Time dataset, due to the sheer size of the dataset, we already have trained models and evaluation instances ready in NN Models folder and Dataset folder respectively. Please ensure the corresponding jupyter notebooks are linked to the said files.**  
