@@ -1,10 +1,10 @@
 # Data Representing Ground-Truth Explanations
 
-Intructions:
+Due to size constraints, only the code  is being attached in the repository and not the dataset. The dataset can be downloaded from the links provided below.
 
 The code for the entire project is split 3 essential parts:
 
-1) Loan Data - https://drive.google.com/file/d/1fOQroK1quGI9vvviaUuekH1KsmbSqZQD/view?usp=sharing
+1) Loan Data - ![Link to Loan Dataset](https://drive.google.com/drive/folders/1_7hbPb8FQ488faesZVQDpWo9mxJrG5h4?usp=sharing)
 - GTE with 5 num_samples
 - GTE with 25 num_samples
 - GTE with 50 num_samples
@@ -13,17 +13,15 @@ The code for the entire project is split 3 essential parts:
   -To run the code ensure that file "Loan_Data.csv" has the same path as the Jupyter notebook "Loan_Data-Lime-explanations"
 
 
-2) Time Data - ![Equations used for Data Set Time](https://drive.google.com/file/d/1XXNNbjGaN-v3kt8S1rax16GhNgCmBEpw/view?usp=sharing)
-Time 10000 Evaluation Instances Correct with labels.csv
-https://drive.google.com/file/d/1FyQe0lKjoR6WC3oVy2nDMtlu4_eOo3NY/view?usp=sharing
+2) Time Data - ![Link to Time dataset](https://drive.google.com/drive/folders/1_7hbPb8FQ488faesZVQDpWo9mxJrG5h4?usp=sharing)
+- Time 10000 Evaluation Instances Correct with labels.csv
 - GTE with 1000 num_samples
 - NN1 coefficients from LIME-Time
 - NN2 coefficients from LIME-Time
 
 
-3) Distance Data
-![Equations used for Data Set Distance](https://drive.google.com/file/d/1Dd8LCjJi7Va2jAxikVaU13FaERojK9dq/view?usp=sharing)
-https://drive.google.com/file/d/1PbDRMzxtqq1JNcsAZHcgR42IXSxy3Ta3/view?usp=sharing
+3) Distance Data - ![Link to Distance dataset](https://drive.google.com/drive/folders/1CUPRlrwuGYfecG1TToUX8AdHq-YjaYIe?usp=sharing)
+- Distance 50000 Evaluation Instances Correct with labels.csv
 - GTE with 5000 num_samples
 - NN1 coefficients from LIME-Distance
 
