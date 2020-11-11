@@ -10,7 +10,8 @@ The code for the entire project is split 3 essential parts:
 - GTE with 50 num_samples
 - NN1 coefficients from LIME-Loan
 - NN2 coefficients from LIME-Loan
-  -To run the code ensure that file "Loan_Data.csv" has the same path as the Jupyter notebook "Loan_Data-Lime-explanations"
+ 
+ **To run the code ensure that file "Loan_Data.csv" has the same path as the Jupyter notebook "Loan_Data-Lime-explanations"**
 
 2) Time Data - ![Link to Time dataset](https://drive.google.com/drive/folders/1_7hbPb8FQ488faesZVQDpWo9mxJrG5h4?usp=sharing)
 - Time 10000 Evaluation Instances Correct with labels.csv
